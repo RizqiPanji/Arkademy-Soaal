@@ -1,0 +1,45 @@
+{
+    "name" : "Muhammad Rizqi Panji",
+    "age" : 24,
+    "address" : "Grand Cikarang City, Jl. Arjuna Utama , Cikarang Utara",
+    "hobbies" : ["coding", "futsal", "game"],
+    "is_married" : false,
+
+    "list_school" : [{
+        "keyName"   : "SDIT An-Nur",
+        "year_in"   : 2001,
+        "year_out"  : 2007,
+        "major"     : null
+    }, {
+        "keyName"   : "SMPN 04 Cikarang Utara" ,
+        "year_in"   : 2007,
+        "year_out"  : 2010,
+        "major"     : null
+    }, {
+        "keyName"   : "SMK Informatika Amanah Bangsa",
+        "year_in"   : 2010,
+        "year_out"  : 2013,
+        "major"     : "Teknik Komputer Jaringan"
+    },{
+        "keyName"   : "Pelita Bangsa University",
+        "year_in"   : 2014,
+        "year_out"  : 2018,
+        "major"     : "Teknik Informatika"
+    }],
+
+    "skills" : [{
+        "skill_name" : "HTML",
+        "level"      : "Beginner"
+    }, {
+        "skill_name" : "CSS",
+        "level"      : "Beginner"
+    }, {
+        "skill_name" : "Javascript",
+        "level"      : "Beginner"
+    }, {
+        "skill_name" : "mySQL",
+        "level"      : "Beginner"
+    }],
+
+    "interest_in_coding" : true 
+}
